@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Component Analyzer", "Component Analyzer\Component Analyzer.csproj", "{C00DD93B-3DB6-4522-954F-375C8A0B2553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C00DD93B-3DB6-4522-954F-375C8A0B2553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00DD93B-3DB6-4522-954F-375C8A0B2553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C00DD93B-3DB6-4522-954F-375C8A0B2553}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{C00DD93B-3DB6-4522-954F-375C8A0B2553}.Debug|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

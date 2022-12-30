@@ -1,0 +1,10 @@
+C:\CODE\Unity\Projects\WorkingArea\Unity Component Analyzer\Component Analyzer\Component Analyzer\bin\Release\netstandard2.0\Component Analyzer.deps.json
+C:\CODE\Unity\Projects\WorkingArea\Unity Component Analyzer\Component Analyzer\Component Analyzer\bin\Release\netstandard2.0\Component Analyzer.dll
+C:\CODE\Unity\Projects\WorkingArea\Unity Component Analyzer\Component Analyzer\Component Analyzer\bin\Release\netstandard2.0\Component Analyzer.pdb
+C:\CODE\Unity\Projects\WorkingArea\Unity Component Analyzer\Component Analyzer\Component Analyzer\obj\Release\netstandard2.0\Component Analyzer.csproj.AssemblyReference.cache
+C:\CODE\Unity\Projects\WorkingArea\Unity Component Analyzer\Component Analyzer\Component Analyzer\obj\Release\netstandard2.0\Component Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\Unity\Projects\WorkingArea\Unity Component Analyzer\Component Analyzer\Component Analyzer\obj\Release\netstandard2.0\Component Analyzer.AssemblyInfoInputs.cache
+C:\CODE\Unity\Projects\WorkingArea\Unity Component Analyzer\Component Analyzer\Component Analyzer\obj\Release\netstandard2.0\Component Analyzer.AssemblyInfo.cs
+C:\CODE\Unity\Projects\WorkingArea\Unity Component Analyzer\Component Analyzer\Component Analyzer\obj\Release\netstandard2.0\Component Analyzer.csproj.CoreCompileInputs.cache
+C:\CODE\Unity\Projects\WorkingArea\Unity Component Analyzer\Component Analyzer\Component Analyzer\obj\Release\netstandard2.0\Component Analyzer.dll
+C:\CODE\Unity\Projects\WorkingArea\Unity Component Analyzer\Component Analyzer\Component Analyzer\obj\Release\netstandard2.0\Component Analyzer.pdb
